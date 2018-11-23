@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adoptu", "adoptu\adoptu.csproj", "{C3DF0F60-B122-4999-83D3-3F4DF408AABC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3DF0F60-B122-4999-83D3-3F4DF408AABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3DF0F60-B122-4999-83D3-3F4DF408AABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3DF0F60-B122-4999-83D3-3F4DF408AABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3DF0F60-B122-4999-83D3-3F4DF408AABC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

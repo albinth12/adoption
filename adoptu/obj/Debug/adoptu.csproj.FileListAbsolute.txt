@@ -1,0 +1,11 @@
+c:\users\albin\documents\visual studio 2010\Projects\adoptu\adoptu\bin\adoptu.dll
+c:\users\albin\documents\visual studio 2010\Projects\adoptu\adoptu\bin\adoptu.pdb
+c:\users\albin\documents\visual studio 2010\Projects\adoptu\adoptu\obj\Debug\adoptu.dll
+c:\users\albin\documents\visual studio 2010\Projects\adoptu\adoptu\obj\Debug\adoptu.pdb
+C:\Users\albin\documents\visual studio 2010\Projects\adoptu\adoptu\obj\Debug\adoptu.csprojResolveAssemblyReference.cache
+C:\Users\albin\Documents\Visual Studio 2015\Projects\adoptu\adoptu\bin\adoptu.dll.config
+C:\Users\albin\Documents\Visual Studio 2015\Projects\adoptu\adoptu\bin\adoptu.dll
+C:\Users\albin\Documents\Visual Studio 2015\Projects\adoptu\adoptu\bin\adoptu.pdb
+C:\Users\albin\Documents\Visual Studio 2015\Projects\adoptu\adoptu\obj\Debug\adoptu.dll
+C:\Users\albin\Documents\Visual Studio 2015\Projects\adoptu\adoptu\obj\Debug\adoptu.pdb
+C:\Users\albin\Documents\Visual Studio 2015\Projects\adoptu\adoptu\obj\Debug\adoptu.csprojResolveAssemblyReference.cache
