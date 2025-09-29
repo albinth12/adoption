@@ -1,4 +1,4 @@
-# kerala_ststea_doption_authority
+# kerala_state_adoption_authority
 
 its an ASP.NET web application to manage child adoption in Kerala. The 
 main intention of introducing this web application is to reduce the difficulties of child adoption 
